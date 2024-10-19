@@ -1,0 +1,40 @@
+{
+  "events": [
+    {
+      "startTime": "2024-10-18T10:33",
+      "endTime": "2024-10-18T10:33",
+      "name": "Evenement 1",
+      "type": "Concert | Vernissage",
+      "link": "https://soundcloud.com/calin_chimique",
+      "img": "http://artsvisuelsecole.free.fr/animaux/animaux_chienbleu/animaux_chienbleu10.JPG",
+      "address": "22 route du caca",
+      "ville": "Bourges",
+      "price": "X euros",
+      "id": "UID1"
+    },
+    {
+      "startTime": "2024-30-18T17:00",
+      "endTime": "2024-31-18T00:01",
+      "name": "Evenement 2",
+      "type": "Concert | Vernissage",
+      "link": "https://soundcloud.com/originsoundd",
+      "img": "https://media.s-bol.com/mV3Y0p7LYE4O/7Pn9jr/550x550.jpg",
+      "address": "25 route du pipi",
+      "ville": "Vierzon",
+      "price": "X euros",
+      "id": "UID2"
+    },
+    {
+      "startTime": "2024-10-10T17:00",
+      "endTime": "2024-10-11T00:01",
+      "name": "Evenement 3",
+      "type": "Concert | Vernissage",
+      "link": "https://soundcloud.com/originsoundd",
+      "img": "https://www.peintures-sur-toile.com/wp-content/uploads/2023/02/IMG_004_2023_petit_chien_yxbleus.jpeg",
+      "address": "10 rue du pet",
+      "ville": "Sancerre",
+      "price": "X euros",
+      "id": "UID3"
+    }
+  ]
+}
